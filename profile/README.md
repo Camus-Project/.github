@@ -8,4 +8,4 @@
 
 The Camus Project provides a method, specification language, programming langage and tooling for AI-generated code — code that must be understood, verified, and assumed by humans.
 
-→ [Official website](https://camus-project.github.io/)
+More on [official website](https://camus-project.github.io/)
