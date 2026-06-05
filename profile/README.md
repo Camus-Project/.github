@@ -11,3 +11,12 @@ The Camus Project provides a method, specification language, programming languag
 More on [camus-project.github.io](https://camus-project.github.io/)
 
 **Author: Lan Jing**
+
+---
+<pre>
+*camus-sig-1*
+**Signed — Lan Jing**
+Date: 2026-06-05T10:59:04Z
+Fingerprint: SHA256:11:0E:1B:6E:21:89:66:AF:F0:BF:CD:A5:A8:4D:7E:01:63:82:29:B3:08:6B:70:3F:52:D6:F3:21:23:52:CE:7F
+Signature: eBiI9fcLQZKXSfBx4Mn6jDmwmd9Oq1wNzAasVox1j7Omm8SMxnG/2GeFK/xmCVKjYtQRI9B4OZuSXbrMteWaCg==
+</pre>
