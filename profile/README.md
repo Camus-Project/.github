@@ -10,8 +10,6 @@ The Camus Project provides a method, specification language, programming languag
 
 More on [camus-project.github.io](https://camus-project.github.io/)
 
-**Author: Lan Jing**
-
 ---
 <pre>
 *camus-sig-1*
